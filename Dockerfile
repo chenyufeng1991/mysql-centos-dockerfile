@@ -1,4 +1,4 @@
-FROM centos:6.7
+FROM centos:6
 MAINTAINER chenyufeng "yufengcode@gmail.com"  
    
 # 使用yum的方式安装mysql；
